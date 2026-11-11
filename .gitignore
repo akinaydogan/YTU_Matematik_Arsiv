@@ -1,0 +1,17 @@
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editör
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Geçici ve Office kilit dosyaları
+*.tmp
+~$*
+*.log
